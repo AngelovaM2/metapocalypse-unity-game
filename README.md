@@ -36,11 +36,6 @@ The `Art/` folder has the sprites used in the game, and `Art/aseprite-sources/` 
 <img src="images/metapocalypse-gameplay.webp" width="49%" alt="Gameplay">
 </p>
 
-## What I learned
-
-Connecting scripts with Unity's attributes was a parade of oops moments, but in the end every playtester managed to solve the puzzle. Their feedback also showed me what was missing: the circuit did not show which direction it flows, and the tutorial needed a hint to get started. Collaborating through GitHub was a "fun" learning experience too. Merging tilemap work from two branches is a mistake I will not repeat.
-
-If I continued the project, I would add notes that lead the player to the puzzle, and I would make the puzzle checker count the correct slots locally on every check instead of keeping a counter between checks.
 
 ---
 
